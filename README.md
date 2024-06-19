@@ -1,0 +1,1 @@
+This project is a simple JavaScript program that demonstrates the use of a while loop to create a counter. The counter starts at 1 and increments up to 10, displaying each number using an alert. This project is part of the Oracle Next Education program.
